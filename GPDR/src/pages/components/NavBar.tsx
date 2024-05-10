@@ -95,7 +95,7 @@ function NavBar({ logoPath }: NavProps) {
                 </li>
                 <li>
                   <a className="dropdown-item">
-                    <FaDownload /> Resume
+                    <FaDownload /> Instagram
                   </a>
                 </li>
               </ul>

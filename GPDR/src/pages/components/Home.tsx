@@ -20,7 +20,7 @@ function Home({ imageSrcPath }: HomeProps) {
         style={backgroundImageStyle}
       >
         <div className="text-center text-white">
-          <h1 className="display-4 mb-4">Gaithersburg PDR</h1>
+          <h1 className="display-4 mb-4">Alfaro's Auto Shop</h1>
           {/* Search Bar */}
           <div className="input-group mb-3" style={{ maxWidth: "400px" }}>
             <input
